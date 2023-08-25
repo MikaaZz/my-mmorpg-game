@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://libgdx.com/
+HostUrl=https://libgdx-nightlies.s3.amazonaws.com/libgdx-runnables/gdx-setup.jar
